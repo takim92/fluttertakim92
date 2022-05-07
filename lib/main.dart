@@ -1,17 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:takim_doksan_iki/screens/splash_screen.dart';
 
-class Home extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(),
-      body: Center(
-        child: Column(
-          children: [
-            Text("Home Screen")
-            ]
-          ),
-      ),
-    );
-  }
+void main() {
+  runApp(MaterialApp(
+    debugShowCheckedModeBanner: false,
+
+    //Burada Emulatör ekranında gözükecek sayfa belirlenecek. sayfayı kodladıktan sonra buradaki splashScreen yerşne
+    //kendi kodlamanızı yaptığınız sayfayı vermeniz test ve görüntüleme için yeterlidir
+    //TODO: Sayfa değişim ve daha fazla işlem için navigatör eklenecek ileride
+    home: SplashScreen(),
+  ));
 }
