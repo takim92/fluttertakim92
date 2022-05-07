@@ -1,4 +1,4 @@
-# Takım 92 Prjocet Codes
+# Takım 92 Project Codes
 
 # Cihan
 # İsmail
