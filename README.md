@@ -64,33 +64,36 @@ https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
 
 <h1>Sprint 1<h1>
 
-<h2>Sprint Notları:<h2> <sub>User Story'ler product backlog'ların içine yazılmıştır</sub>
+<h3>Sprint Notları:<h3> <sub>User Story'ler product backlog'ların içine yazılmıştır</sub>
 
-<h2>Sprint içinde tamamlanması tahmin edilen puan: 100<h2> 
+<h3>Sprint içinde tamamlanması tahmin edilen puan: 100<h3> 
 
-<h2>Puan tamamlama mantığı:<h2> <sub>Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.</sub>
+<h3>Puan tamamlama mantığı:<h3> <sub>Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.</sub>
 
-<h2>Backlog düzeni ve Story seçimleri: <h2> 
+<h3>Backlog düzeni ve Story seçimleri: <h3> 
 <sub> Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.</sub>
 
-<h2>Daily Scrum:<h2>
+<h3>Daily Scrum:<h3>
 
 <sub>Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
 Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
 https://github.com/takim92/fluttertakim92/tree/main/daily_scrum </sub>
 
-<h2>Sprint board update:<h2>
+<h3>Sprint board update:<h3>
   
 ![image](https://user-images.githubusercontent.com/104425115/167312757-3b9682a0-0c3b-45ee-8034-ed3bd808c41c.png)
+![image](https://user-images.githubusercontent.com/104425115/167314014-d2453862-c794-46f2-ab17-15cc503e2a39.png)
 
-<h2>Ürün Durumu:<h2>
+
+<h3>Ürün Durumu:<h3>
 
 ![image](https://user-images.githubusercontent.com/104425115/167305132-eb27b2a2-6b35-4d30-9a9d-1ca3717c4ca2.png)
 ![image](https://user-images.githubusercontent.com/104425115/167305161-4ff7ced0-432e-487c-bf56-ee7d47e18c03.png)
 
-<h2>Sprint review:<h2> <sub>Alınan kararlar: Account kısmı Sprint 1'de hedeflenmişti. Ancak bayram ve resmi tatil arası nedeniyle UI tasarım ve programlaması ile birlikte Sprint 2 de devam edilecektir. Aynı zamanda makale ve literatür taramasına devam edilecektir. Sprint katılımcıları: Cihangir, Seher, Feyza, Enes, İsmail.</sub>
+<h3>Sprint review:<h3>
+<sub>Alınan kararlar: Account kısmı Sprint 1'de hedeflenmişti. Ancak bayram ve resmi tatil arası nedeniyle UI tasarım ve programlaması ile birlikte Sprint 2 de devam edilecektir. Aynı zamanda makale ve literatür taramasına devam edilecektir. Sprint katılımcıları: Cihangir, Seher, Feyza, Enes, İsmail.</sub>
 
-<h2>Sprint Retrospective:<h2>
+<h3>Sprint Retrospective:<h3>
 <sub>Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
 Tasarım ekibi Developerlara geri bildirim vermeli.
 Developer'ların zaman ayarlamaları yapılmalı.
