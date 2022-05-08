@@ -5,7 +5,7 @@
 # Takım Bilgileri
 
 Cihangir Kuris: Scrum Master
-İsmail: Developer
-Enes: Developer
-Seher: Product Owner
-Feyza: Designer
+Seher Ova: Product Owner
+Feyza Uğuz: Designer
+İsmail Cihan Kopuk: Developer
+Enes Çakar: Developer
