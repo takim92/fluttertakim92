@@ -79,7 +79,7 @@ Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan
 
 <h2>Sprint board update:<h2>
   
-![image](https://user-images.githubusercontent.com/104425115/167305268-bd884d04-7b5f-4190-bb82-49e3fad7fbf3.png)
+![image](https://user-images.githubusercontent.com/104425115/167312757-3b9682a0-0c3b-45ee-8034-ed3bd808c41c.png)
 
 <h2>Ürün Durumu:<h2>
 
