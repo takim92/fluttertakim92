@@ -9,3 +9,11 @@ Seher Ova: Product Owner
 Feyza Uğuz: Designer
 İsmail Cihan Kopuk: Developer
 Enes Çakar: Developer
+
+# Ürün İsmi
+
+# Ürün Açıklaması
+
+# Ürün Özellikleri
+
+# Hedef Kitle
