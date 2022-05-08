@@ -21,3 +21,7 @@ Enes Çakar: Developer
 # Product Backlog URL
 
 https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
+
+# Sprint 1
+Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır
+
