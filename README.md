@@ -32,6 +32,7 @@ Sprint içinde tamamlanması tahmin edilen puan:
 # Backlog düzeni ve Story seçimleri: 
 
 # Daily Scrum:
+[Uploading Daily Scrum.rar…]()
 
 Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
 Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
