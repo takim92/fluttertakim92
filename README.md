@@ -82,7 +82,8 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum </sub>
 <h3>Sprint board update:<h3>
   
 ![image](https://user-images.githubusercontent.com/104425115/167312757-3b9682a0-0c3b-45ee-8034-ed3bd808c41c.png)
-![image](https://user-images.githubusercontent.com/104425115/167314014-d2453862-c794-46f2-ab17-15cc503e2a39.png)
+[Opportunity Solution Tree (1).pdf](https://github.com/takim92/fluttertakim92/files/8647715/Opportunity.Solution.Tree.1.pdf)
+
 
 
 <h3>Ürün Durumu:<h3>
