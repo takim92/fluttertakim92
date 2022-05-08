@@ -2,15 +2,15 @@
 -Takım 92
 
 <h1> Ürün İle İlgili Bilgiler<h1>
-# Takım Bilgileri
+<h2> Takım Bilgileri<h2>
 
-<br> Cihangir Kuris: Scrum Master<br>
-<br>Seher Ova: Product Owner<br>
-<br>Feyza Uğuz: Designer<br>
-<br>İsmail Cihan Kopuk: Developer<br>
-<br>Enes Çakar: Developer<br>
+<li> Cihangir Kuris: Scrum Master<li>
+Seher Ova: Product Owner<li>
+Feyza Uğuz: Designer<li>
+İsmail Cihan Kopuk: Developer<li>
+Enes Çakar: Developer
 
-# Ürün İsmi
+<h2>Ürün İsmi<h2>
 
 # Ürün Açıklaması
 
