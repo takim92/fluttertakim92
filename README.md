@@ -70,7 +70,8 @@ https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
 
 <h2>Puan tamamlama mantığı:<h2>
 
-<h2>Backlog düzeni ve Story seçimleri: <h2>
+<h2>Backlog düzeni ve Story seçimleri: <h2> 
+Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 <h2>Daily Scrum:<h2>
 
