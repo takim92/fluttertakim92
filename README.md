@@ -87,7 +87,7 @@ Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan
 ![image](https://user-images.githubusercontent.com/104425115/167305132-eb27b2a2-6b35-4d30-9a9d-1ca3717c4ca2.png)
 ![image](https://user-images.githubusercontent.com/104425115/167305161-4ff7ced0-432e-487c-bf56-ee7d47e18c03.png)
 
-<h2>Sprint review:<h2>
+<h2>Sprint review:<h2> <sub>Alınan kararlar: Account kısmı Sprint 1'de hedeflenmişti. Ancak bayram ve resmi tatil arası nedeniyle UI tasarım ve programlaması ile birlikte Sprint 2 de devam edilecektir. Aynı zamanda makale ve literatür taramasına devam edilecektir. Sprint katılımcıları: Cihangir, Seher, Feyza, Enes, İsmail.</sub>
 
 <h2>Sprint Retrospective:<h2>
 <sub>Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
