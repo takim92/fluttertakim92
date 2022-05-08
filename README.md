@@ -17,3 +17,7 @@ Enes Çakar: Developer
 # Ürün Özellikleri
 
 # Hedef Kitle
+
+# Product Backlog URL
+
+https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
