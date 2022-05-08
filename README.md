@@ -46,7 +46,7 @@ Psikiyatri desteği
 - Dil Terapisi
 - Rehabilitasyon desteği
 
-Arkadaşına Öner
+Bize Ulaşın
   >
 
 <h2>Hedef Kitle<h2>
