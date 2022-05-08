@@ -39,6 +39,7 @@ Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan
 # Sprint board update:
 
 # Ürün Durumu:
+![image](https://user-images.githubusercontent.com/104425115/167305132-eb27b2a2-6b35-4d30-9a9d-1ca3717c4ca2.png)
 
 # Sprint review:
 
