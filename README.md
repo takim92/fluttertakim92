@@ -99,4 +99,3 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum </sub>
 Tasarım ekibi Developerlara geri bildirim vermeli.
 Developer'ların zaman ayarlamaları yapılmalı.
 Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı</sub>
-
