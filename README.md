@@ -1,14 +1,14 @@
 # Takım İsmi
 -Takım 92
 
-# Ürün İle İlgili Bilgiler
+<h1> Ürün İle İlgili Bilgiler<h1>
 # Takım Bilgileri
 
-Cihangir Kuris: Scrum Master
-Seher Ova: Product Owner
-Feyza Uğuz: Designer
-İsmail Cihan Kopuk: Developer
-Enes Çakar: Developer
+<br> Cihangir Kuris: Scrum Master<br>
+<br>Seher Ova: Product Owner<br>
+<br>Feyza Uğuz: Designer<br>
+<br>İsmail Cihan Kopuk: Developer<br>
+<br>Enes Çakar: Developer<br>
 
 # Ürün İsmi
 
@@ -23,16 +23,17 @@ Enes Çakar: Developer
 https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
 
 # Sprint 1
-Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır
 
-Sprint içinde tamamlanması tahmin edilen puan:
+# Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır
+
+# Sprint içinde tamamlanması tahmin edilen puan: 100
 
 # Puan tamamlama mantığı:
 
 # Backlog düzeni ve Story seçimleri: 
 
 # Daily Scrum:
-[Uploading Daily Scrum.rar…]()
+
 
 Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
 Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
@@ -51,7 +52,4 @@ Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı al
 Tasarım ekibi Developerlara geri bildirim vermeli.
 Developer'ların zaman ayarlamaları yapılmalı.
 Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-
-
-
 
