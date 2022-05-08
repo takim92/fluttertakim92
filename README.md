@@ -1,7 +1,11 @@
-# Takım 92 Project Codes
+# Takım İsmi
+-Takım 92
 
-# Cihan
-# İsmail
-# Enes
-# Seher
-# Feyza
+# Ürün İle İlgili Bilgiler
+# Takım Bilgileri
+
+Cihangir Kuris: Scrum Master
+İsmail: Developer
+Enes: Developer
+Seher: Product Owner
+Feyza: Designer
