@@ -38,9 +38,11 @@ https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
 Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.</sub>
 
 <h2>Sprint board update:<h2>
-![image](https://user-images.githubusercontent.com/104425115/167307482-9f2bbcfb-70e0-453a-9fed-72b8dc3974e0.png)
+  
+![image](https://user-images.githubusercontent.com/104425115/167305268-bd884d04-7b5f-4190-bb82-49e3fad7fbf3.png)
 
 <h2>Ürün Durumu:<h2>
+
 ![image](https://user-images.githubusercontent.com/104425115/167305132-eb27b2a2-6b35-4d30-9a9d-1ca3717c4ca2.png)
 ![image](https://user-images.githubusercontent.com/104425115/167305161-4ff7ced0-432e-487c-bf56-ee7d47e18c03.png)
 
