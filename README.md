@@ -68,7 +68,7 @@ https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
 
 <h2>Sprint içinde tamamlanması tahmin edilen puan: 100<h2> 
 
-<h2>Puan tamamlama mantığı:<h2>
+<h2>Puan tamamlama mantığı:<h2> <sub>Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.</sub>
 
 <h2>Backlog düzeni ve Story seçimleri: <h2> 
 <sub> Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.</sub>
