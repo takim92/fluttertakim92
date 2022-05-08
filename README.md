@@ -31,7 +31,10 @@ Sprint içinde tamamlanması tahmin edilen puan:
 
 # Backlog düzeni ve Story seçimleri: 
 
-# Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+# Daily Scrum:
+
+Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
+Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
 # Sprint board update:
 
@@ -39,7 +42,7 @@ Sprint içinde tamamlanması tahmin edilen puan:
 
 # Sprint review:
 
-Sprint Retrospective:
+# Sprint Retrospective:
 Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
 Tasarım ekibi Developerlara geri bildirim vermeli.
 Developer'ların zaman ayarlamaları yapılmalı.
