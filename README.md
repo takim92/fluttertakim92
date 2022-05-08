@@ -37,6 +37,7 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden
 Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
 # Sprint board update:
+![image](https://user-images.githubusercontent.com/104425115/167305268-bd884d04-7b5f-4190-bb82-49e3fad7fbf3.png)
 
 # Ürün Durumu:
 ![image](https://user-images.githubusercontent.com/104425115/167305132-eb27b2a2-6b35-4d30-9a9d-1ca3717c4ca2.png)
