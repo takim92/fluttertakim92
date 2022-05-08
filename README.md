@@ -17,7 +17,7 @@
   
 <sub>Mom App sayesinde annelere çocuklarının *sağlığı ve eğitimi* konusunda uzmanlarla çalışarak online hizmetler veriyoruz.  Acemi, tecrübeli, özel çocuğu olan (otizm, down sendromu, obezite vb) annelere doktorlara ve pedagoglara danışma imkânı sunuyoruz.
 Yeni ve lohusa annelere beslenme ve psikolojik destek sunmanın yanı sıra Doulalık desteği de sunuyoruz. Annenin talebi durumunda doğum öncesi ve sonrası alanında uzman doktorlarla çalışıp doğru bilgilerle annenin yanında oluyoruz. *Onu internetin ve çevrenin sebep olduğu bilgi kirliliğinden koruyoruz.*
-Çocuğunun veya kendisinin beslenme düzenini takip etmek veya tedavi olmak isteyen annelere özel diyetisyenlik hizmeti sunuyoruz. Ayrıca çocuk için veya anne için özel ve piyasadan daha uygun fiyatlarla psikiyatri desteği sunuyoruz.Verdiğimiz tüm hizmetlerin yanı sıra özel çocuklar için alanında profesyonel doktorla çalışarak onlara özel hizmetler sunuyoruz. Hastane *kontrollerini kaydediyor*; doktorlarımızın isteği doğrultusunda da *oyun terapisi, fizik tedavi, dil terapisi, rehabilitasyon desteği* veriyoruz. Annelerin doktorları, diyetisyenleri ve eğitmenleri değerlendirmesi ve yorum yapmasıyla bir *güven* ortamı sunuyoruz. Mom App ekibi olarak hiçbir annenin zor anlarında yalnız kalmasını istemiyoruz. Bilgi eksikliklerini veya yanlış bilgilenmeyi gideriyor, piyasadan daha uygun bir hizmet sunarak da imkansızlıkları yok etmeye çalışıyoruz.</sub)
+Çocuğunun veya kendisinin beslenme düzenini takip etmek veya tedavi olmak isteyen annelere özel diyetisyenlik hizmeti sunuyoruz. Ayrıca çocuk için veya anne için özel ve piyasadan daha uygun fiyatlarla psikiyatri desteği sunuyoruz.Verdiğimiz tüm hizmetlerin yanı sıra özel çocuklar için alanında profesyonel doktorla çalışarak onlara özel hizmetler sunuyoruz. Hastane *kontrollerini kaydediyor*; doktorlarımızın isteği doğrultusunda da *oyun terapisi, fizik tedavi, dil terapisi, rehabilitasyon desteği* veriyoruz. Annelerin doktorları, diyetisyenleri ve eğitmenleri değerlendirmesi ve yorum yapmasıyla bir *güven* ortamı sunuyoruz. Mom App ekibi olarak hiçbir annenin zor anlarında yalnız kalmasını istemiyoruz. Bilgi eksikliklerini veya yanlış bilgilenmeyi gideriyor, piyasadan daha uygun bir hizmet sunarak da imkansızlıkları yok etmeye çalışıyoruz.
 >
 <h2>Ürün Özellikleri<h2>
   
@@ -45,6 +45,9 @@ Psikiyatri desteği
 - Fizik Tedavi
 - Dil Terapisi
 - Rehabilitasyon desteği
+
+Arkadaşına Öner
+  >
 
 <h2>Hedef Kitle<h2>
 <li> <sub>Yeni anneler</sub><li>
