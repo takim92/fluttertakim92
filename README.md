@@ -84,8 +84,6 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 ![image](https://user-images.githubusercontent.com/104425115/167312757-3b9682a0-0c3b-45ee-8034-ed3bd808c41c.png)
 [Opportunity Solution Tree (1).pdf](https://github.com/takim92/fluttertakim92/files/8647715/Opportunity.Solution.Tree.1.pdf)
 
-
-
 <h3>Ürün Durumu:<h3>
 
 ![image](https://user-images.githubusercontent.com/104425115/167305132-eb27b2a2-6b35-4d30-9a9d-1ca3717c4ca2.png)
