@@ -66,9 +66,9 @@ https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
 
 <h3>Sprint Notları:<h3> <sub>User Story'ler product backlog'ların içine yazılmıştır</sub>
 
-<h3>Sprint içinde tamamlanması tahmin edilen puan: 100<h3> 
+<h3>Sprint içinde tamamlanması tahmin edilen puan: 80<h3> 
 
-<h3>Puan tamamlama mantığı:<h3> <sub>Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.</sub>
+<h3>Puan tamamlama mantığı:<h3> <sub>Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.</sub>
 
 <h3>Backlog düzeni ve Story seçimleri: <h3> 
 <sub> Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.</sub>
