@@ -77,7 +77,7 @@ https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
 
 <sub>Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
 Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
-https://github.com/takim92/fluttertakim92/tree/main/daily_scrum </sub>
+https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 
 <h3>Sprint board update:<h3>
   
