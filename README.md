@@ -70,7 +70,7 @@ https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
 
 
 
-<h3>Sprint içinde tamamlanması tahmin edilen puan: 80<h3> 
+<h3>Sprint içinde tamamlanması tahmin edilen puan: 100<h3> 
 
 <h3>Puan tamamlama mantığı:<h3> <sub>Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi.</sub>
 
