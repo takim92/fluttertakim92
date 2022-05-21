@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:takim_doksan_iki/screens/login.dart';
+
+import '../service/AuthService.dart';
 
 class SignUp extends StatefulWidget {
   const SignUp({Key? key}) : super(key: key);
@@ -8,112 +11,224 @@ class SignUp extends StatefulWidget {
 }
 
 class _SignUpState extends State<SignUp> {
-  @override
+ final TextEditingController _nameController = TextEditingController();
+  final TextEditingController _emailController = TextEditingController();
+  final TextEditingController _passwordController = TextEditingController();
+  final TextEditingController _passwordAgainController =
+      TextEditingController();
+
+  AuthService _authService = AuthService();
+  
+   @override
   Widget build(BuildContext context) {
+    var size = MediaQuery.of(context).size;
     return Scaffold(
-      body: signUp_body(context),
-    );
-  }
-
-  Container signUp_body(BuildContext context) {
-    return Container(
-      width: MediaQuery.of(context).size.width,
-      child: SafeArea(
-        child: signUp_contents(),
-      ),
-      decoration: const BoxDecoration(
-        image: DecorationImage(
-          image: AssetImage("assets/sign_up_bg.jpg"),
-          fit: BoxFit.cover,
-        ),
-      ),
-    );
-  }
-
-  // ignore: non_constant_identifier_names
-  Container signUp_contents() {
-    return Container(
-      color: Color.fromRGBO(0, 0, 0, 0.5),
-      child: Column(
-        mainAxisSize: MainAxisSize.max,
-        crossAxisAlignment: CrossAxisAlignment.center,
-        mainAxisAlignment: MainAxisAlignment.spaceAround,
-        children: [
-          signUp_titles(),
-          Padding(padding: EdgeInsets.symmetric(horizontal: 15.0), child: signUp_inputs())
-        ],
-      ),
-    );
-  }
-
-  Column signUp_inputs() {
-    return Column(
-          children: [
-            const TextField(
-              style: TextStyle(color: Colors.white),
-              keyboardType: TextInputType.emailAddress,
-              obscureText: true,
-              enableSuggestions: false,
-              autocorrect: false,
-              decoration: InputDecoration(
-                border: OutlineInputBorder(),
-                hintText: 'E-mail yazınız',
-                hintStyle: TextStyle(color: Colors.white),
+        body: Stack(
+      children: [
+        Center(
+          child: Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 10.0),
+            child: Container(
+              height: size.height * .7,
+              width: size.width * .85,
+              decoration: BoxDecoration(
+                  color: Colors.blue.withOpacity(.75),
+                  borderRadius: BorderRadius.all(Radius.circular(20)),
+                  boxShadow: [
+                    BoxShadow(
+                        color: Colors.grey.withOpacity(.75),
+                        blurRadius: 10,
+                        spreadRadius: 2)
+                  ]),
+              child: Padding(
+                padding: const EdgeInsets.all(10.0),
+                child: Center(
+                  child: Column(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      TextField(
+                          controller: _nameController,
+                          style: TextStyle(
+                            color: Colors.white,
+                          ),
+                          cursorColor: Colors.white,
+                          keyboardType: TextInputType.emailAddress,
+                          decoration: InputDecoration(
+                            prefixIcon: Icon(
+                              Icons.person,
+                              color: Colors.white,
+                            ),
+                            hintText: 'Kullanıcı adı',
+                            prefixText: ' ',
+                            hintStyle: TextStyle(color: Colors.white),
+                            focusColor: Colors.white,
+                            focusedBorder: UnderlineInputBorder(
+                                borderSide: BorderSide(
+                              color: Colors.white,
+                            )),
+                            enabledBorder: UnderlineInputBorder(
+                                borderSide: BorderSide(
+                              color: Colors.white,
+                            )),
+                          )),
+                      SizedBox(
+                        height: size.height * 0.02,
+                      ),
+                      TextField(
+                          controller: _emailController,
+                          style: TextStyle(
+                            color: Colors.white,
+                          ),
+                          cursorColor: Colors.white,
+                          keyboardType: TextInputType.emailAddress,
+                          decoration: InputDecoration(
+                            prefixIcon: Icon(
+                              Icons.mail,
+                              color: Colors.white,
+                            ),
+                            hintText: 'E-Mail',
+                            prefixText: ' ',
+                            hintStyle: TextStyle(color: Colors.white),
+                            focusColor: Colors.white,
+                            focusedBorder: UnderlineInputBorder(
+                                borderSide: BorderSide(
+                              color: Colors.white,
+                            )),
+                            enabledBorder: UnderlineInputBorder(
+                                borderSide: BorderSide(
+                              color: Colors.white,
+                            )),
+                          )),
+                      SizedBox(
+                        height: size.height * 0.02,
+                      ),
+                      TextField(
+                          style: TextStyle(
+                            color: Colors.white,
+                          ),
+                          cursorColor: Colors.white,
+                          controller: _passwordController,
+                          obscureText: true,
+                          decoration: InputDecoration(
+                            prefixIcon: Icon(
+                              Icons.vpn_key,
+                              color: Colors.white,
+                            ),
+                            hintText: 'Parola',
+                            prefixText: ' ',
+                            hintStyle: TextStyle(color: Colors.white),
+                            focusColor: Colors.white,
+                            focusedBorder: UnderlineInputBorder(
+                                borderSide: BorderSide(
+                              color: Colors.white,
+                            )),
+                            enabledBorder: UnderlineInputBorder(
+                                borderSide: BorderSide(
+                              color: Colors.white,
+                            )),
+                          )),
+                      SizedBox(
+                        height: size.height * 0.02,
+                      ),
+                      TextField(
+                          style: TextStyle(
+                            color: Colors.white,
+                          ),
+                          cursorColor: Colors.white,
+                          controller: _passwordAgainController,
+                          obscureText: true,
+                          decoration: InputDecoration(
+                            prefixIcon: Icon(
+                              Icons.vpn_key,
+                              color: Colors.white,
+                            ),
+                            hintText: 'Parola Tekrar',
+                            prefixText: ' ',
+                            hintStyle: TextStyle(color: Colors.white),
+                            focusColor: Colors.white,
+                            focusedBorder: UnderlineInputBorder(
+                                borderSide: BorderSide(
+                              color: Colors.white,
+                            )),
+                            enabledBorder: UnderlineInputBorder(
+                                borderSide: BorderSide(
+                              color: Colors.white,
+                            )),
+                          )),
+                      SizedBox(
+                        height: size.height * 0.08,
+                      ),
+                      InkWell(
+                        onTap: () {
+                          _authService
+                              .createPerson(
+                                  _nameController.text,
+                                  _emailController.text,
+                                  _passwordController.text)
+                              .then((value) {
+                            return Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                    builder: (context) => LoginScreen()));
+                          });
+                        },
+                        child: Container(
+                          padding: EdgeInsets.symmetric(vertical: 5),
+                          decoration: BoxDecoration(
+                              border: Border.all(color: Colors.white, width: 2),
+                              //color: colorPrimaryShade,
+                              borderRadius:
+                                  BorderRadius.all(Radius.circular(30))),
+                          child: Padding(
+                            padding: const EdgeInsets.all(5.0),
+                            child: Center(
+                                child: Text(
+                              "Kaydet",
+                              style: TextStyle(
+                                color: Colors.white,
+                                fontSize: 20,
+                              ),
+                            )),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
               ),
             ),
-            const TextField(
-              style: TextStyle(color: Colors.white),
-              obscureText: true,
-              enableSuggestions: false,
-              autocorrect: false,
-              decoration: InputDecoration(
-                border: OutlineInputBorder(),
-                hintText: 'Şifrenizi giriniz',
-                hintStyle: TextStyle(color: Colors.white),
-              ),
-            ),
-             const TextField(
-              style: TextStyle(color: Colors.white),
-              obscureText: true,
-              enableSuggestions: false,
-              autocorrect: false,
-              decoration: InputDecoration(
-                border: OutlineInputBorder(),
-                hintText: 'Lütfen şifrenizi tekrar giriniz',
-                hintStyle: TextStyle(color: Colors.white),
-              ),
-            ),
-            ElevatedButton(onPressed: () {}, child: const Text("Kayıt ol")),
-            TextButton(
-              child: const Text(
-                "Hesabın var mı? Hemen Giriş Yap!",
-                style: TextStyle(color: Colors.white70),
-              ),
-              onPressed: () {},
-            )
-          ],
-        );
-  }
-
-  Column signUp_titles() {
-    return Column(
-      children: const [
-        Text(
-          "Mom",
-          style: TextStyle(
-              color: Colors.white, fontSize: 24.0, fontWeight: FontWeight.w700),
+          ),
         ),
         Padding(
-          padding: EdgeInsets.only(top: 16.0),
-          child: Text(
-            "Sign Up",
-            style: TextStyle(
-                color: Colors.white60,
-                fontSize: 18.0,
-                fontWeight: FontWeight.w400),
+          padding:
+              EdgeInsets.only(top: size.height * .06, left: size.width * .02),
+          child: Align(
+            alignment: Alignment.topLeft,
+            child: Row(
+              children: [
+                IconButton(
+                  onPressed: () => Navigator.pop(context),
+                  icon: Icon(
+                    Icons.arrow_back_ios_outlined,
+                    color: Colors.blue.withOpacity(.75),
+                    size: 26,
+                  ),
+                ),
+                SizedBox(
+                  width: size.width * 0.3,
+                ),
+                Text(
+                  "Kayıt ol",
+                  style: TextStyle(
+                      fontSize: 20,
+                      color: Colors.blue.withOpacity(.75),
+                      fontWeight: FontWeight.bold),
+                )
+              ],
+            ),
           ),
         )
       ],
-    );
+    ));
   }
 }
