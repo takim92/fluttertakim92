@@ -127,14 +127,23 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 
 <h3>Ürün Durumu:<h3>
  
-![1 (4)](https://user-images.githubusercontent.com/104425115/169711004-70c5acb3-e9e4-4444-aae9-61ff4c875383.png)
-![1 (5)](https://user-images.githubusercontent.com/104425115/169711005-8488d3c6-65a2-461b-bab4-3bab6636ed79.png)
-![1 (6)](https://user-images.githubusercontent.com/104425115/169711006-96698c08-4125-4f6b-9fec-dd9a99c70280.png)
-![1 (7)](https://user-images.githubusercontent.com/104425115/169711008-2a89881e-5eb9-4ada-945a-ce9594509f4c.png)
-![1 (8)](https://user-images.githubusercontent.com/104425115/169711009-c5d43214-ee97-4943-8f15-12ffb05573fb.png)
-![1 (9)](https://user-images.githubusercontent.com/104425115/169711000-9c0b924f-b8d8-4541-94f5-6e05d4a6d344.png)
-![1 (3)](https://user-images.githubusercontent.com/104425115/169711003-861e3f50-1932-43bf-bb84-e421b2567dd9.png)
-
+![1 (13)](https://user-images.githubusercontent.com/104425115/169711270-42144125-649b-447d-986e-defcdcbe0cd5.png)
+![1 (14)](https://user-images.githubusercontent.com/104425115/169711271-a70bd4ac-b954-4841-96d8-48dd630f7dee.png)
+![1 (58)](https://user-images.githubusercontent.com/104425115/169711236-821028c7-3c64-466f-9659-01d39b8d798e.png)
+![1 (3)](https://user-images.githubusercontent.com/104425115/169711240-dcd60982-59ce-4cda-a3f9-65acb96f9463.png)
+![1 (4)](https://user-images.githubusercontent.com/104425115/169711244-33f6381b-d3e8-46cc-9f80-157c71c20dd3.png)
+![1 (5)](https://user-images.githubusercontent.com/104425115/169711245-55aee710-b20f-4497-b8b5-712c7acdcaee.png)
+![1 (6)](https://user-images.githubusercontent.com/104425115/169711247-7dd397a5-d654-4d5f-adb9-2bd93adfb04e.png)
+![1 (7)](https://user-images.githubusercontent.com/104425115/169711248-4c0145cc-e454-46cc-b5a7-39ece0213224.png)
+![1 (8)](https://user-images.githubusercontent.com/104425115/169711249-d7ba9030-a622-42a0-bbf1-ec611890e14d.png)
+![1 (9)](https://user-images.githubusercontent.com/104425115/169711250-b2de1ce4-304e-4104-9746-987b5be54ee0.png)
+![1 (15)](https://user-images.githubusercontent.com/104425115/169711252-e35c33e6-95ab-4435-96ec-20d5fa0a6ced.png)
+![1 (16)](https://user-images.githubusercontent.com/104425115/169711254-66202db8-74ac-451a-8ffd-d0c606d44723.png)
+![1 (17)](https://user-images.githubusercontent.com/104425115/169711255-0e324814-5aa8-4b80-9478-62d400f5539b.png)
+![1 (18)](https://user-images.githubusercontent.com/104425115/169711256-59d9fa49-fb7f-4185-b73f-1abc5a39f126.png)
+![1 (19)](https://user-images.githubusercontent.com/104425115/169711257-815fbbcd-33f4-4790-9e95-fe329484a979.png)
+![1 (20)](https://user-images.githubusercontent.com/104425115/169711258-f56377b8-321c-4075-857f-8aa854619756.png)
+![1 (21)](https://user-images.githubusercontent.com/104425115/169711260-11acc940-e7d9-4b9f-8ec9-329b9dbcaf47.png)
 
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/104425115/169710630-2ded07c4-93d7-4a33-91e8-4de90dc37cbd.PNG)
