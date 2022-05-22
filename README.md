@@ -126,6 +126,16 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 ![image](https://user-images.githubusercontent.com/104425115/169710804-e103f288-a8e8-44cb-85fd-fc8e053d9b04.png)
 
 <h3>Ürün Durumu:<h3>
+ 
+![1 (4)](https://user-images.githubusercontent.com/104425115/169711004-70c5acb3-e9e4-4444-aae9-61ff4c875383.png)
+![1 (5)](https://user-images.githubusercontent.com/104425115/169711005-8488d3c6-65a2-461b-bab4-3bab6636ed79.png)
+![1 (6)](https://user-images.githubusercontent.com/104425115/169711006-96698c08-4125-4f6b-9fec-dd9a99c70280.png)
+![1 (7)](https://user-images.githubusercontent.com/104425115/169711008-2a89881e-5eb9-4ada-945a-ce9594509f4c.png)
+![1 (8)](https://user-images.githubusercontent.com/104425115/169711009-c5d43214-ee97-4943-8f15-12ffb05573fb.png)
+![1 (9)](https://user-images.githubusercontent.com/104425115/169711000-9c0b924f-b8d8-4541-94f5-6e05d4a6d344.png)
+![1 (3)](https://user-images.githubusercontent.com/104425115/169711003-861e3f50-1932-43bf-bb84-e421b2567dd9.png)
+
+
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/104425115/169710630-2ded07c4-93d7-4a33-91e8-4de90dc37cbd.PNG)
 ![Ekran Alıntısı2](https://user-images.githubusercontent.com/104425115/169710637-6b12853b-6aad-433e-8914-838faed2d2df.PNG)
