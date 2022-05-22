@@ -69,7 +69,6 @@ https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
   ![image](https://user-images.githubusercontent.com/104425115/167514902-30cf9f25-ffac-4981-a490-6c38b1f63af7.png)
 
 
-
 <h3>Sprint içinde tamamlanması tahmin edilen puan: 100<h3> 
 
 <h3>Puan tamamlama mantığı:<h3> <sub>Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi.</sub>
@@ -101,3 +100,40 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 Tasarım ekibi Developerlara geri bildirim vermeli.
 Developer'ların zaman ayarlamaları yapılmalı.
 Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı</sub>
+  
+  
+<h1>Sprint 2<h1>
+
+<h3>Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır <h3> 
+
+
+
+<h3>Sprint içinde tamamlanması tahmin edilen puan: 100<h3> 
+
+<h3>Puan tamamlama mantığı:<h3> <sub>Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en 100 puan ile tamamlanması gerektiğine karar verildi.</sub>
+
+<h3>Backlog düzeni ve Story seçimleri: <h3> 
+<sub> Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.</sub>
+
+<h3>Daily Scrum:<h3>
+
+<sub>Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
+Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
+https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
+
+<h3>Sprint board update:<h3>
+
+![image](https://user-images.githubusercontent.com/104425115/169710804-e103f288-a8e8-44cb-85fd-fc8e053d9b04.png)
+
+<h3>Ürün Durumu:<h3>
+
+![Ekran Alıntısı](https://user-images.githubusercontent.com/104425115/169710630-2ded07c4-93d7-4a33-91e8-4de90dc37cbd.PNG)
+![Ekran Alıntısı2](https://user-images.githubusercontent.com/104425115/169710637-6b12853b-6aad-433e-8914-838faed2d2df.PNG)
+
+
+<h3>Sprint review: <h3>
+<sub>Alınan kararlar:  </sub>
+
+<h3>Sprint Retrospective:<h3>
+<sub> </sub>
+
