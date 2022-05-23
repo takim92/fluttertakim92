@@ -154,5 +154,5 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 <sub>Alınan kararlar: Akademide aktif olmayan bursiyerler akademiye bildirildi. Tasarım için son teslim tarihi 29.05.2022 olarak belirlendi. Geriye kalan süre zarfında developerlara destek olunacak ve projede iyileştirmeler araştırılacak.</sub>
 
 <h3>Sprint Retrospective:<h3>
-<sub> </sub>
+<sub> 2. Sprint boyunca tasarımda iyileştirmeler yapılarak önceki tasarımlara göre daha profesyonel çalışmalar hedeflendi. Account kısmı tamamlandı. Kullanıcıların sorunsuz birşekilde login yapmaları test edildi. Aynı zamanda uygulama responsive hale getirilerek diğer cihazlar için de uyumlu hale getirildi.</sub>
 
