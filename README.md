@@ -66,7 +66,7 @@ https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
 
 <h3>Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır <h3> 
   
-  ![image](https://user-images.githubusercontent.com/104425115/167514902-30cf9f25-ffac-4981-a490-6c38b1f63af7.png)
+![image](https://user-images.githubusercontent.com/104425115/169880709-e82364f9-0d53-4e4c-9fb9-26ba948cdc08.png)
 
 
 <h3>Sprint içinde tamamlanması tahmin edilen puan: 100<h3> 
