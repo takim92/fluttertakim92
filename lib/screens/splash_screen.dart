@@ -10,8 +10,16 @@ import 'package:flutter/material.dart';
 
   NOTES: 
 */
+class SplashScreen extends StatefulWidget {
+  @override
+  State<StatefulWidget> createState() {
+    // TODO: implement createState
+    throw UnimplementedError();
+  }
 
-class SplashScreen extends StatelessWidget {
+  
+}
+class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -47,5 +55,11 @@ class SplashScreen extends StatelessWidget {
         ), /* add child content here */
       ),
     );
+  }
+
+  @override
+  State<StatefulWidget> createState() {
+    // TODO: implement createState
+    throw UnimplementedError();
   }
 }
