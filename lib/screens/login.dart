@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:takim_doksan_iki/screens/Home.dart';
+import 'package:takim_doksan_iki/screens/home.dart';
 import 'package:takim_doksan_iki/screens/sign_up.dart';
 import 'package:takim_doksan_iki/service/AuthService.dart';
 

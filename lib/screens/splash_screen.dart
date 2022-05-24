@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:takim_doksan_iki/screens/Home.dart';
+import 'package:takim_doksan_iki/screens/login.dart';
 
 /*
   07.05.2022 SAAT 12.32
@@ -11,15 +13,23 @@ import 'package:flutter/material.dart';
   NOTES: 
 */
 class SplashScreen extends StatefulWidget {
-  @override
-  State<StatefulWidget> createState() {
-    // TODO: implement createState
-    throw UnimplementedError();
-  }
+  const SplashScreen({Key? key}) : super(key: key);
 
+  @override
+  State<SplashScreen> createState() => _SplashScreenState();
   
 }
 class _SplashScreenState extends State<SplashScreen> {
+  @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+
+     Future.delayed(const Duration(seconds: 4), () async {
+      Navigator.pushReplacement(
+          context, new MaterialPageRoute(builder: (context) => Home()));
+    });
+  }
   @override
   Widget build(BuildContext context) {
     return Scaffold(
