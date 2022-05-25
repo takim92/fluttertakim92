@@ -118,7 +118,7 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 
 <h3>Sprint board update:<h3>
 
-![2 sprint](https://user-images.githubusercontent.com/104425115/170330798-4bb884e6-f89c-4fd7-9ce6-d9ae829f252c.jpg)
+![Kanban Framework (2)](https://user-images.githubusercontent.com/104425115/170331973-15029947-1036-4841-ad76-aa526f678c02.jpg)
 
 <h3>Ürün Durumu:<h3>
  
