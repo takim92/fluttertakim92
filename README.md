@@ -65,9 +65,6 @@ https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
 <h1>Sprint 1<h1>
 
 <h3>Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır <h3> 
-  
-![i![image](https://user-images.githubusercontent.com/104425115/170330539-acd09518-30d2-4a09-8906-6b341a418c1a.png)
-
 
 <h3>Sprint içinde tamamlanması tahmin edilen puan: 100<h3> 
 
@@ -105,8 +102,6 @@ Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerek
 <h1>Sprint 2<h1>
 
 <h3>Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır <h3> 
-
-
 
 <h3>Sprint içinde tamamlanması tahmin edilen puan: 100<h3> 
 
