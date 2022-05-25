@@ -66,7 +66,7 @@ https://miro.com/app/board/uXjVO2sJb6A=/?share_link_id=516366503985
 
 <h3>Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır <h3> 
   
-![image](https://user-images.githubusercontent.com/104425115/169880709-e82364f9-0d53-4e4c-9fb9-26ba948cdc08.png)
+![i![image](https://user-images.githubusercontent.com/104425115/170330539-acd09518-30d2-4a09-8906-6b341a418c1a.png)
 
 
 <h3>Sprint içinde tamamlanması tahmin edilen puan: 100<h3> 
@@ -84,7 +84,7 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 
 <h3>Sprint board update:<h3>
   
-![image](https://user-images.githubusercontent.com/104425115/167489174-39d90cc2-ed3e-498a-8264-d4e7cec3e902.png)
+![Kanban Framework](https://user-images.githubusercontent.com/104425115/170331133-07d384dc-2988-4924-b6c3-05a342c79c8e.jpg)
 [Opportunity Solution Tree (1).pdf](https://github.com/takim92/fluttertakim92/files/8647715/Opportunity.Solution.Tree.1.pdf)
 
 <h3>Ürün Durumu:<h3>
@@ -123,7 +123,7 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 
 <h3>Sprint board update:<h3>
 
-![image](https://user-images.githubusercontent.com/104425115/169710804-e103f288-a8e8-44cb-85fd-fc8e053d9b04.png)
+![2 sprint](https://user-images.githubusercontent.com/104425115/170330798-4bb884e6-f89c-4fd7-9ce6-d9ae829f252c.jpg)
 
 <h3>Ürün Durumu:<h3>
  
