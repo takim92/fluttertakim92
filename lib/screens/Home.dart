@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:takim_doksan_iki/screens/Hizmetler.dart';
 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
@@ -48,7 +49,7 @@ class _HomeState extends State<Home> {
               trailing: Icon(Icons.medical_services_outlined),
               onTap: () {
                 //Go page
-                //Navigator.push(context, new MaterialPageRoute(builder: (context) => Page))
+                Navigator.push(context, new MaterialPageRoute(builder: (context) => HizmetlerPage()));
               },
             ),
             ListTile(
