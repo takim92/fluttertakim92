@@ -224,7 +224,6 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 
 
 <h3>Ürün Durumu:<h3>
- 
 
 
 <h3>Sprint review: <h3>
