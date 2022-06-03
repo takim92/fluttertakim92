@@ -209,7 +209,7 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 
 <h3>Sprint içinde tamamlanması tahmin edilen puan: 100<h3> 
 
-<h3>Puan tamamlama mantığı:<h3> <sub>Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en 100 puan ile tamamlanması gerektiğine karar verildi.</sub>
+<h3>Puan tamamlama mantığı:<h3> <sub>Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprintin 100 puan ile tamamlanması gerektiğine karar verildi.</sub>
 
 <h3>Backlog düzeni ve Story seçimleri: <h3> 
 <sub> Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.</sub>
