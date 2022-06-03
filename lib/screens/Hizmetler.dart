@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:takim_doksan_iki/screens/diyetisyenlik.dart';
+import 'package:takim_doksan_iki/screens/ozelCocuk.dart';
+import 'package:takim_doksan_iki/screens/psikiyatri.dart';
+import 'package:takim_doksan_iki/screens/yeni_anne.dart';
 
 class HizmetlerPage extends StatelessWidget {
   const HizmetlerPage({Key? key}) : super(key: key);
@@ -46,7 +50,10 @@ class HizmetlerPage extends StatelessWidget {
                       clipBehavior: Clip.antiAliasWithSaveLayer,
                       child: InkWell(
                         onTap: () {
-                         //Navigatör
+                          Navigator.push(
+                              context,
+                              new MaterialPageRoute(
+                                  builder: (context) => Diyetisyenlik()));
                         },
                         child: const Padding(
                           padding: EdgeInsets.all(8.0),
@@ -62,12 +69,15 @@ class HizmetlerPage extends StatelessWidget {
                   flex: 1,
                   child: Container(
                     height: 150,
-                    child:  Card(
+                    child: Card(
                       semanticContainer: true,
                       clipBehavior: Clip.antiAliasWithSaveLayer,
                       child: InkWell(
                         onTap: () {
-                          //Navigatör
+                          Navigator.push(
+                              context,
+                              new MaterialPageRoute(
+                                  builder: (context) => YeniAnne()));
                         },
                         child: const Padding(
                           padding: EdgeInsets.all(8.0),
@@ -88,12 +98,15 @@ class HizmetlerPage extends StatelessWidget {
                   flex: 1,
                   child: Container(
                     height: 150,
-                    child:  Card(
+                    child: Card(
                       semanticContainer: true,
                       clipBehavior: Clip.antiAliasWithSaveLayer,
                       child: InkWell(
                         onTap: () {
-                          //Navigatör
+                          Navigator.push(
+                              context,
+                              new MaterialPageRoute(
+                                  builder: (context) => OzelCocuk()));
                         },
                         child: const Padding(
                           padding: EdgeInsets.all(8.0),
@@ -109,12 +122,15 @@ class HizmetlerPage extends StatelessWidget {
                   flex: 1,
                   child: Container(
                     height: 150,
-                    child:  Card(
+                    child: Card(
                       semanticContainer: true,
                       clipBehavior: Clip.antiAliasWithSaveLayer,
                       child: InkWell(
                         onTap: () {
-                          //Navigatör
+                          Navigator.push(
+                              context,
+                              new MaterialPageRoute(
+                                  builder: (context) => Psikiyatri()));
                         },
                         child: const Padding(
                           padding: EdgeInsets.all(8.0),

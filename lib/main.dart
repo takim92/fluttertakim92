@@ -9,15 +9,9 @@ void main() async{
   
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
-  runApp(MaterialApp(
+  runApp(const MaterialApp(
     debugShowCheckedModeBanner: false,
 
-    //Burada Emulatör ekranında gözükecek sayfa belirlenecek. sayfayı kodladıktan sonra buradaki splashScreen yerşne
-    //kendi kodlamanızı yaptığınız sayfayı vermeniz test ve görüntüleme için yeterlidir
-    //TODO: Sayfa değişim ve daha fazla işlem için navigatör eklenecek ileride
     home: SplashScreen(),
-    //home: Dr_Info(),
-    //home: LoginScreen(),
-    //home: SignUp(),
   ));
 }
