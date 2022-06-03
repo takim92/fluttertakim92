@@ -5,7 +5,7 @@
 <h2> Takım Bilgileri<h2>
 
 <li> <sub>Cihangir Kuris: Scrum Master</sub><li>
-<sub>Seher Ova: Product Owner</sub><li>
+<sub>Seher Ova: Designer</sub><li>
 <sub>Feyza Uğuz: Designer</sub><li>
 <sub>İsmail Cihan Kopuk: Developer</sub><li>
 <sub>Enes Çakar: Developer</sub></li>
