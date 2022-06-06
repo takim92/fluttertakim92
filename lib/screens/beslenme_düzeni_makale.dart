@@ -1,16 +1,13 @@
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const yeni_anne());
-}
-class yeni_anne extends StatefulWidget {
-  const yeni_anne({Key? key}) : super(key: key);
+class BeslenmeDuzeniPage extends StatefulWidget {
+  const BeslenmeDuzeniPage({Key? key}) : super(key: key);
 
   @override
-  State<yeni_anne> createState() => _yeni_anneState();
+  State<BeslenmeDuzeniPage> createState() => _BeslenmeDuzeniPageState();
 }
 
-class _yeni_anneState extends State<yeni_anne> {
+class _BeslenmeDuzeniPageState extends State<BeslenmeDuzeniPage> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -117,6 +114,5 @@ class _yeni_anneState extends State<yeni_anne> {
           ),
         ),
       ),
-    );
-  }
+    );  }
 }
