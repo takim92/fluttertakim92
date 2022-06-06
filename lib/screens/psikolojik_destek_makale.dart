@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:takim_doksan_iki/screens/Home.dart';
+import 'package:takim_doksan_iki/screens/yeni_anne.dart';
 
 class Psikolojik_destek extends StatefulWidget {
   const Psikolojik_destek({Key? key}) : super(key: key);
@@ -32,13 +34,14 @@ class _Psikolojik_destekState extends State<Psikolojik_destek> {
                 Icons.home,
               ),
               onPressed: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context) => Home()));
               },
             )
           ],
           leading: Builder(
               builder: (BuildContext context){
                 return IconButton(onPressed: (){
-                  Navigator.pop(context);
+                  Navigator.push(context, MaterialPageRoute(builder: (context) => YeniAnnePage()));
                 }, icon: Icon(Icons.keyboard_arrow_left),
                 );
               }
