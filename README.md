@@ -209,7 +209,7 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 
 <h3>Sprint içinde tamamlanması tahmin edilen puan: 100<h3> 
 
-<h3>Puan tamamlama mantığı:<h3> <sub>Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprintin 100 puan ile tamamlanması gerektiğine karar verildi.</sub>
+<h3>Puan tamamlama mantığı:<h3> <sub>Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3. sprintin 100 puan ile tamamlanması gerektiğine karar verildi.</sub>
 
 <h3>Backlog düzeni ve Story seçimleri: <h3> 
 <sub> Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.</sub>
@@ -224,10 +224,15 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 
 
 <h3>Ürün Durumu:<h3>
-
+![2022-06-06 08_21_16-1 jfif ‎- Fotoğraflar](https://user-images.githubusercontent.com/104425115/172099848-2cc1cecd-ba5f-4748-968c-4269476323ac.jpg)
+![2022-06-06 08_22_53-2 jfif ‎- Fotoğraflar](https://user-images.githubusercontent.com/104425115/172099918-42fa2d99-4a2f-40e0-b626-7c1840147248.png)
+![2022-06-06 08_22_53-2 jfif ‎- Fotoğraflar](https://user-images.githubusercontent.com/104425115/172099962-961f5c27-896e-49f7-b974-fdb6fb7bdc72.png)
+![4](https://user-images.githubusercontent.com/104425115/172100041-c5f3ebfc-5a12-475e-9984-c165e11858fb.png)
+![5](https://user-images.githubusercontent.com/104425115/172100122-d39c7aea-438d-4d11-ac07-c13ede398dee.png)
+![6](https://user-images.githubusercontent.com/104425115/172100150-36196bf3-af4a-42c2-a11c-2b1376327ebf.png)
 
 <h3>Sprint review: <h3>
-<sub>Alınan kararlar: Akademide aktif olmayan bursiyerler akademiye bildirildi. Tasarım için son teslim tarihi 29.05.2022 olarak belirlendi. Geriye kalan süre zarfında developerlara destek olunacak ve projede iyileştirmeler araştırılacak.</sub>
+<sub>Alınan kararlar: Tüm ekip developer tarafında aktif oldu. Ürün teslimi için ekibin tüm üyelerinden daha fazla aktif olmaları istendi. Proje boyunca bir developerın aktif olmaması sebebi ile her ne kadar vakit kaybedilmiş olsa da prototibinin hazırlanması konusunda karar alındı. Ayrıca bu ekip üyesi akademiye bildirildi.</sub>
 
 <h3>Sprint Retrospective:<h3>
 <sub> 3. Sprint boyunca tasarımda iyileştirmeler yapıldı. Developer ekibinin bootcamp dışındaki meşguliyetlerinden dolayı yazılım tarafında hedeflenen zamana ulaşılamadı. İlk defa birbirleri ile çalışan bir ekip olarak ortaya profesyonel bir çalışma çıkarmak hedeflendi. Ekipte sorumluluk almayan developer bir arkadaşımız çok fazla vakit kaybetmemizden dolayı akademiye bildirildi. Süre ve diğer meşguliyetlerden dolayı uygulamanın prototipi hazır hale getirildi. </sub>
