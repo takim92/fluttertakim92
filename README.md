@@ -221,6 +221,8 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 
 <h3>Sprint board update:<h3>
 
+![sonson](https://user-images.githubusercontent.com/104425115/172247273-47a2aad6-cd88-4a85-b3e3-fba269364270.png)
+
 
 <h3>Ürün Durumu:<h3>
 
