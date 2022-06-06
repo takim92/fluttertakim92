@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:takim_doksan_iki/screens/Home.dart';
+import 'package:takim_doksan_iki/screens/yeni_anne.dart';
 
 void main() {
   runApp(const emzirme_egitimi());
@@ -35,13 +37,14 @@ class _emzirme_egitimiState extends State<emzirme_egitimi> {
                 Icons.home,
               ),
               onPressed: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context) => Home()));
               },
             )
           ],
           leading: Builder(
               builder: (BuildContext context){
                 return IconButton(onPressed: (){
-                  Navigator.pop(context);
+                  Navigator.push(context, MaterialPageRoute(builder: (context) => YeniAnnePage()));
                 }, icon: Icon(Icons.keyboard_arrow_left),
                 );
               }
@@ -109,5 +112,4 @@ class _emzirme_egitimiState extends State<emzirme_egitimi> {
     );
   }
 }
-
 
