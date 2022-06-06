@@ -224,12 +224,18 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 
 
 <h3>Ürün Durumu:<h3>
-![2022-06-06 08_22_53-2 jfif ‎- Fotoğraflar](https://user-images.githubusercontent.com/104425115/172100650-140c80d2-9733-413d-b9da-268c56a8d5f9.png)
-![3](https://user-images.githubusercontent.com/104425115/172100654-34311be5-8499-4787-9aea-cfd99199c65d.png)
-![4](https://user-images.githubusercontent.com/104425115/172100657-b7818e2d-d2e1-4d67-abcb-8f91b40167ad.png)
-![5](https://user-images.githubusercontent.com/104425115/172100659-dffc0998-2b10-48a0-b9e6-f6c2f29ecfde.png)
-![6](https://user-images.githubusercontent.com/104425115/172100660-18ee49e9-711d-4c1e-b226-35e104f0c9b5.png)
-![2022-06-06 08_21_16-1 jfif ‎- Fotoğraflar](https://user-images.githubusercontent.com/104425115/172100662-754635ab-90ca-43fd-b011-b835fb163ee3.jpg)
+
+  ![2022-06-06 08_22_53-2 jfif ‎- Fotoğraflar](https://user-images.githubusercontent.com/104425115/172100650-140c80d2-9733-413d-b9da-268c56a8d5f9.png) 
+  
+  ![3](https://user-images.githubusercontent.com/104425115/172100654-34311be5-8499-4787-9aea-cfd99199c65d.png) 
+  
+  ![4](https://user-images.githubusercontent.com/104425115/172100657-b7818e2d-d2e1-4d67-abcb-8f91b40167ad.png)
+
+  ![5](https://user-images.githubusercontent.com/104425115/172100659-dffc0998-2b10-48a0-b9e6-f6c2f29ecfde.png)
+  
+  ![6](https://user-images.githubusercontent.com/104425115/172100660-18ee49e9-711d-4c1e-b226-35e104f0c9b5.png)
+  
+  ![2022-06-06 08_21_16-1 jfif ‎- Fotoğraflar](https://user-images.githubusercontent.com/104425115/172100662-754635ab-90ca-43fd-b011-b835fb163ee3.jpg)
 
 
 <h3>Sprint review: <h3>
