@@ -1,5 +1,6 @@
-
 import 'package:flutter/material.dart';
+import 'package:takim_doksan_iki/screens/Home.dart';
+import 'package:takim_doksan_iki/screens/yeni_anne.dart';
 
 class Dogum_Sonrasi_Kontrol extends StatefulWidget {
   const Dogum_Sonrasi_Kontrol({Key? key}) : super(key: key);
@@ -33,13 +34,14 @@ class _Dogum_Sonrasi_KontrolState extends State<Dogum_Sonrasi_Kontrol> {
                 Icons.home,
               ),
               onPressed: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context) => Home()));
               },
             )
           ],
           leading: Builder(
               builder: (BuildContext context){
                 return IconButton(onPressed: (){
-                  Navigator.pop(context);
+                  Navigator.push(context, MaterialPageRoute(builder: (context) => YeniAnnePage()));
                 }, icon: Icon(Icons.keyboard_arrow_left),
                 );
               }
@@ -120,3 +122,4 @@ class _Dogum_Sonrasi_KontrolState extends State<Dogum_Sonrasi_Kontrol> {
       ),
     );  }
 }
+
