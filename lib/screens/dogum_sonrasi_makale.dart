@@ -1,16 +1,14 @@
+
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const yeni_anne());
-}
-class yeni_anne extends StatefulWidget {
-  const yeni_anne({Key? key}) : super(key: key);
+class Dogum_Sonrasi_Kontrol extends StatefulWidget {
+  const Dogum_Sonrasi_Kontrol({Key? key}) : super(key: key);
 
   @override
-  State<yeni_anne> createState() => _yeni_anneState();
+  State<Dogum_Sonrasi_Kontrol> createState() => _Dogum_Sonrasi_KontrolState();
 }
 
-class _yeni_anneState extends State<yeni_anne> {
+class _Dogum_Sonrasi_KontrolState extends State<Dogum_Sonrasi_Kontrol> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -120,6 +118,5 @@ class _yeni_anneState extends State<yeni_anne> {
           ),
         ),
       ),
-    );
-  }
+    );  }
 }
