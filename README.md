@@ -6,7 +6,7 @@
 
 <li> <sub>Cihangir Kuris: Scrum Master</sub><li>
 <sub>Seher Ova: Designer</sub><li>
-<sub>Feyza Uğuz: Designer</sub><li>
+<sub>Feyza Uğuz: Developer&Designer</sub><li>
 <sub>Enes Çakar: Developer</sub></li>
 
 <h2>Ürün İsmi<h2>
