@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:proje_yeni_anne/beslenme_d%C3%BCzeni.dart';
-import 'package:proje_yeni_anne/dogum_sonrasi_kontroller.dart';
-import 'package:proje_yeni_anne/emzirme_egitimi.dart';
-import 'package:proje_yeni_anne/psikolojik_destek.dart';
+import 'package:takim_doksan_iki/screens/Hizmetler.dart';
+import 'package:takim_doksan_iki/screens/Home.dart';
+import 'package:takim_doksan_iki/screens/beslenme_duzeni_makale.dart';
+import 'package:takim_doksan_iki/screens/dogum_sonrasi_makale.dart';
+import 'package:takim_doksan_iki/screens/emzirme_egitimi_makale.dart';
+import 'package:takim_doksan_iki/screens/psikolojik_destek_makale.dart';
 
 
 class YeniAnnePage extends StatefulWidget {
@@ -18,6 +20,7 @@ class _YeniAnnePageState extends State<YeniAnnePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.grey,
+        automaticallyImplyLeading: false,
         title: Center(
           child: Text(
             'Yeni Anne Desteği',
@@ -34,9 +37,8 @@ class _YeniAnnePageState extends State<YeniAnnePage> {
             icon: Icon(
               Icons.home,
             ),
-            onPressed: (
-
-                ){
+            onPressed: (){
+              Navigator.push(context, MaterialPageRoute(builder: (context) => Home()));
             },
           )
         ],
@@ -44,9 +46,9 @@ class _YeniAnnePageState extends State<YeniAnnePage> {
             builder: (BuildContext context){
               return IconButton(
                 onPressed: (){
-                  Navigator.pop(context);
+                  Navigator.push(context, MaterialPageRoute(builder: (context) => HizmetlerPage()));
                 },
-                 icon: Icon(Icons.keyboard_arrow_left),
+                icon: Icon(Icons.keyboard_arrow_left),
               );
             }
 
@@ -184,4 +186,3 @@ class _YeniAnnePageState extends State<YeniAnnePage> {
     );
   }
 }
-
