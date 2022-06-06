@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:takim_doksan_iki/screens/Home.dart';
+import 'package:takim_doksan_iki/screens/yeni_anne.dart';
 
 class BeslenmeDuzeniPage extends StatefulWidget {
   const BeslenmeDuzeniPage({Key? key}) : super(key: key);
@@ -15,6 +17,7 @@ class _BeslenmeDuzeniPageState extends State<BeslenmeDuzeniPage> {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.grey,
+          automaticallyImplyLeading: false,
           title: Center(
             child: Text(
               'Beslenme Düzeni',
@@ -32,13 +35,14 @@ class _BeslenmeDuzeniPageState extends State<BeslenmeDuzeniPage> {
                 Icons.home,
               ),
               onPressed: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context) => Home()));
               },
             )
           ],
           leading: Builder(
               builder: (BuildContext context){
                 return IconButton(onPressed: (){
-                  Navigator.pop(context);
+                  Navigator.push(context, MaterialPageRoute(builder: (context) => YeniAnnePage()));
                 }, icon: Icon(Icons.keyboard_arrow_left),
                 );
               }
