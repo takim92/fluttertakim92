@@ -224,12 +224,13 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
 
 
 <h3>Ürün Durumu:<h3>
-![2022-06-06 08_21_16-1 jfif ‎- Fotoğraflar](https://user-images.githubusercontent.com/104425115/172099848-2cc1cecd-ba5f-4748-968c-4269476323ac.jpg)
-![2022-06-06 08_22_53-2 jfif ‎- Fotoğraflar](https://user-images.githubusercontent.com/104425115/172099918-42fa2d99-4a2f-40e0-b626-7c1840147248.png)
-![2022-06-06 08_22_53-2 jfif ‎- Fotoğraflar](https://user-images.githubusercontent.com/104425115/172099962-961f5c27-896e-49f7-b974-fdb6fb7bdc72.png)
-![4](https://user-images.githubusercontent.com/104425115/172100041-c5f3ebfc-5a12-475e-9984-c165e11858fb.png)
-![5](https://user-images.githubusercontent.com/104425115/172100122-d39c7aea-438d-4d11-ac07-c13ede398dee.png)
-![6](https://user-images.githubusercontent.com/104425115/172100150-36196bf3-af4a-42c2-a11c-2b1376327ebf.png)
+![2022-06-06 08_22_53-2 jfif ‎- Fotoğraflar](https://user-images.githubusercontent.com/104425115/172100650-140c80d2-9733-413d-b9da-268c56a8d5f9.png)
+![3](https://user-images.githubusercontent.com/104425115/172100654-34311be5-8499-4787-9aea-cfd99199c65d.png)
+![4](https://user-images.githubusercontent.com/104425115/172100657-b7818e2d-d2e1-4d67-abcb-8f91b40167ad.png)
+![5](https://user-images.githubusercontent.com/104425115/172100659-dffc0998-2b10-48a0-b9e6-f6c2f29ecfde.png)
+![6](https://user-images.githubusercontent.com/104425115/172100660-18ee49e9-711d-4c1e-b226-35e104f0c9b5.png)
+![2022-06-06 08_21_16-1 jfif ‎- Fotoğraflar](https://user-images.githubusercontent.com/104425115/172100662-754635ab-90ca-43fd-b011-b835fb163ee3.jpg)
+
 
 <h3>Sprint review: <h3>
 <sub>Alınan kararlar: Tüm ekip developer tarafında aktif oldu. Ürün teslimi için ekibin tüm üyelerinden daha fazla aktif olmaları istendi. Proje boyunca bir developerın aktif olmaması sebebi ile her ne kadar vakit kaybedilmiş olsa da prototibinin hazırlanması konusunda karar alındı. Ayrıca bu ekip üyesi akademiye bildirildi.</sub>
