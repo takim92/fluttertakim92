@@ -1,16 +1,18 @@
 import 'package:flutter/material.dart';
+import 'package:takim_doksan_iki/screens/Hizmetler.dart';
+import 'package:takim_doksan_iki/screens/Home.dart';
 
 void main() {
-  runApp(const diyetisyen_sekmesi());
+  runApp(const DiyetisyenPage());
 }
-class diyetisyen_sekmesi extends StatefulWidget {
-  const diyetisyen_sekmesi({Key? key}) : super(key: key);
+class DiyetisyenPage extends StatefulWidget {
+  const DiyetisyenPage({Key? key}) : super(key: key);
 
   @override
   _diyetisyen_sekmesiState createState() => _diyetisyen_sekmesiState();
 }
 
-class _diyetisyen_sekmesiState extends State<diyetisyen_sekmesi> {
+class _diyetisyen_sekmesiState extends State<DiyetisyenPage> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -30,18 +32,26 @@ class _diyetisyen_sekmesiState extends State<diyetisyen_sekmesi> {
             ),
           ),
           actions: <Widget>[
-            IconButton(
-              icon: Icon(
-                Icons.home,
-              ),
-              onPressed: (){
+            GestureDetector(
+              onTap: () {
+
               },
+              child: IconButton(
+                icon: Icon(
+                  Icons.home,
+                ),
+                onPressed: (){
+                  Navigator.push(
+                      context, MaterialPageRoute(builder: (context) => Home())
+                  );
+                },
+              ),
             )
           ],
           leading: Builder(
               builder: (BuildContext context){
                 return IconButton(onPressed: (){
-                  Navigator.pop(context);
+                  Navigator.push(context, MaterialPageRoute(builder: (context) => HizmetlerPage()));
                 }, icon: Icon(Icons.keyboard_arrow_left),
                 );
               }
