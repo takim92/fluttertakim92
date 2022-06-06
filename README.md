@@ -237,7 +237,6 @@ https://github.com/takim92/fluttertakim92/tree/main/daily_scrum</sub>
   ![5](https://user-images.githubusercontent.com/104425115/172100659-dffc0998-2b10-48a0-b9e6-f6c2f29ecfde.png)
   
   ![son11111 jpg](https://user-images.githubusercontent.com/104425115/172245586-3e020e8b-ef34-4377-aeb5-3b4a96050cf7.png)
-
   ![son2222](https://user-images.githubusercontent.com/104425115/172245657-b16889bd-8f3c-405e-84af-9a97db683705.png)
 
 
